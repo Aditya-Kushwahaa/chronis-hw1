@@ -1,0 +1,4 @@
+{"timestamp": 60.5, "scenario": "ambient_alone", "from_level": "L1", "to_level": "L2", "cause": "activity_nearby"}
+{"timestamp": 80.0, "scenario": "ambient_alone", "from_level": "L2", "to_level": "L3", "cause": "user_actively_engaged"}
+{"timestamp": 122.5, "scenario": "active_conversation", "from_level": "L3", "to_level": "L4", "cause": "multi_person_animated"}
+{"timestamp": 181.0, "scenario": "multi_party", "from_level": "L4", "to_level": "L5", "cause": "three_plus_signals_converge"}
